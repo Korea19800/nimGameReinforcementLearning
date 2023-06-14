@@ -21,11 +21,12 @@ turn it is as well as how many sticks are left in the pile.
 
 before:
 
-<img width="587" alt="beforeNIM" src="https://github.com/Korea19800/nimGameReinforcementLearning/assets/52956141/330c3c46-52c7-460a-9401-fd06ce196267">
+<img width="383" alt="before" src="https://github.com/Korea19800/nimGameReinforcementLearning/assets/52956141/f8857776-52c4-46bf-a6aa-aed80bedb81c">
+
 
 after:
 
-<img width="704" alt="after" src="https://github.com/Korea19800/nimGameReinforcementLearning/assets/52956141/59523b23-5a7a-48c9-8cda-f1c1d33e03c4">
+<img width="374" alt="afterNIM" src="https://github.com/Korea19800/nimGameReinforcementLearning/assets/52956141/80cf9f65-cacc-471e-8f1d-ca5844e7356f">
 
 
 What to Do:
