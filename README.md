@@ -1,9 +1,7 @@
 # nimGameReinforcementLearning
 Program to play nim game against  a computer which learns how to play NIM by reinforcement learning
 
-For this programming assignment, we will be visiting the game of NIM again. 
-
-Here is the relevant information about the assignment:
+Here is the relevant information about the program:
 
  There are two players. For this assignment, your program should have one human player (the user)
 and one computer player. The computer player should move first.
@@ -20,6 +18,14 @@ of sticks from the pile in the middle. You should allow players to take up to 3 
  The winner of the game is the player that takes the last stick from the pile.
 Your program does not need to have any graphics, but for each player’s turn it should be obvious whose
 turn it is as well as how many sticks are left in the pile.
+
+before:
+
+<img width="587" alt="beforeNIM" src="https://github.com/Korea19800/nimGameReinforcementLearning/assets/52956141/330c3c46-52c7-460a-9401-fd06ce196267">
+
+after:
+
+<img width="704" alt="after" src="https://github.com/Korea19800/nimGameReinforcementLearning/assets/52956141/59523b23-5a7a-48c9-8cda-f1c1d33e03c4">
 
 
 What to Do:
